@@ -42,8 +42,8 @@ The *Content Management System (CMS)* is a web-based platform that simplifies ma
 
 #### *Credits*
 - *Developer's:*
-  1. **Ketan Rajendra Mande**
-  2. **Harsh Ramdhani Mishra**
+  - **Ketan Rajendra Mande**
+  - **Harsh Ramdhani Mishra**
 - *Frameworks and Libraries:* Bootstrap, SweetAlert2, FontAwesome
 
 #### *License*
