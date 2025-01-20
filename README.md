@@ -12,7 +12,7 @@ The *Content Management System (CMS)* is a web-based platform that simplifies ma
 
 #### *Technologies Used*
 - *Frontend:* HTML5, CSS3, Bootstrap  
-- *Backend:* PHP, MySQL  
+- *Backend:* PHP, JavaScript, MySQL  
 - *Libraries/Tools:* SweetAlert2, FontAwesome  
 - *Server:* XAMPP (Apache, MySQL)
 
