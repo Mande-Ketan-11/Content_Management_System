@@ -19,7 +19,7 @@ The *Content Management System (CMS)* is a web-based platform that simplifies ma
 #### *Installation Instructions*
 1. Clone the repository:
    bash
-   git clone Mande-Ketan-11/PHP-Content_Management_System
+   git clone https://github.com/Mande-Ketan-11/PHP-Content_Management_System
    
 2. Install and start XAMPP (Apache and MySQL).  
 3. Import the provided SQL file into *phpMyAdmin* to set up the database.  
@@ -41,7 +41,8 @@ The *Content Management System (CMS)* is a web-based platform that simplifies ma
 - Export content as PDF or JSON.  
 
 #### *Credits*
-- *Developer:* **Ketan Rajendra Mande**
+- *Developer's:* 1. **Ketan Rajendra Mande**
+                 2. **Harsh Ramdhani Mishra**
 - *Frameworks and Libraries:* Bootstrap, SweetAlert2, FontAwesome
 
 #### *License*
